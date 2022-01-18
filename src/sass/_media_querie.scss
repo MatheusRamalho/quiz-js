@@ -1,0 +1,12 @@
+@media(max-width: 600px) {
+    .main__ {
+        height: calc(100vh - 6.25rem);
+    }
+
+    .footer__ {
+        height: 100px;
+        padding: 0 2rem;
+
+        justify-content: center;
+    }
+}
